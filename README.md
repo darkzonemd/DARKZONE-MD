@@ -77,7 +77,7 @@
 
 > **2. PAIR CODE SESSION ID**
 
-<a href="https://erfan-pair-site.onrender.com" target="_blank">
+<a href="https://dark-pair.onrender.com" target="_blank">
   <img alt="Pairing Code" src="https://img.shields.io/badge/Get%20Pairing%20Code-FF1493?style=for-the-badge&logo=opencv&logoColor=black">
 </a>
 
